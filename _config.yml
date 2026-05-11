@@ -24,13 +24,13 @@ repository               : "mingtaozhou/mingtaozhou.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mingtao Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  #bio              : "Short biography for the left-hand sidebar"
+  #location         : "Earth"
+  employer         : "Changsha University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mtzhou.fin@outlook.com" 
 
   # Academic websites
   academia         : # URL
